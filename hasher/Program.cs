@@ -127,7 +127,7 @@ namespace Hasher
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write( "Website: " );
             Console.ResetColor();
-            Console.WriteLine( "http://jwwishart.blogspot.com" );
+            Console.WriteLine( "https://github.com/jwwishart/hasher" );
             Console.WriteLine();
 
             Console.ForegroundColor = ConsoleColor.White;
