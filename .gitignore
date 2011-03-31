@@ -1,0 +1,16 @@
+
+hasher/bin
+hasher/obj
+
+*.csproj.user
+*.suo
+*.cache
+*.bak
+*.log
+*.swp
+*.user
+
+*.mdf
+*.ldf
+
+Thumbs.db

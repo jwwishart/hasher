@@ -1,0 +1,9 @@
+﻿- Work things so that this exe can be used as a library
+- Consider removing the "file:" argument and just checking whether the text given is a valid filename???
+  Will need to notify the user that the thing hashed was a file or just plain text as the argument though!!!
+- look at changing things so that filename is default and text needs to be inputed using /t: ""
+- CreateFileStreamIfAvailable() is dodgie. Make a test function to
+  see if the file given is valid and exists and then work from
+  the main function based on that. Getting the file contents should be a 
+  few lines of code and should dispose in place, not later and somewhere else!
+- Allow registering of HashAlgorithms (does this make sense?)
