@@ -68,5 +68,7 @@ namespace HasherTest
 
             Assert.Throws<ArgumentException>( () => new Hasher( unregisteredHasherName ) );
         }
+
+
     }
 }

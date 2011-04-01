@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasherLib", "HasherLib\Hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasherTest", "HasherTest\HasherTest.csproj", "{B598437B-82A7-4386-BEB2-874B0C21B306}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasherGui", "HasherGui\HasherGui.csproj", "{3945E900-174F-4963-AD9A-6A20187D80E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{B598437B-82A7-4386-BEB2-874B0C21B306}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B598437B-82A7-4386-BEB2-874B0C21B306}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B598437B-82A7-4386-BEB2-874B0C21B306}.Release|x86.ActiveCfg = Release|Any CPU
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Debug|x86.ActiveCfg = Debug|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Debug|x86.Build.0 = Debug|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Release|Any CPU.ActiveCfg = Release|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Release|x86.ActiveCfg = Release|x86
+		{3945E900-174F-4963-AD9A-6A20187D80E5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

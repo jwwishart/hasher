@@ -1,1 +1,2 @@
-﻿
+﻿- Imlement better command line arguments handler???
+- Fully unit test

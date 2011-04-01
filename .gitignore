@@ -2,6 +2,15 @@
 hasher/bin
 hasher/obj
 
+HasherGui/bin
+HasherGui/obj
+
+HasherLib/bin
+HasherLib/obj
+
+HasherTest/bin
+HasherTest/obj
+
 *.csproj.user
 *.suo
 *.cache
