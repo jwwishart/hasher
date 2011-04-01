@@ -1,0 +1,5 @@
+C:\_Development\hasher\HasherLib\bin\Release\Hasher.dll
+C:\_Development\hasher\HasherLib\bin\Release\Hasher.pdb
+C:\_Development\hasher\HasherLib\obj\Release\ResolveAssemblyReference.cache
+C:\_Development\hasher\HasherLib\obj\Release\Hasher.dll
+C:\_Development\hasher\HasherLib\obj\Release\Hasher.pdb

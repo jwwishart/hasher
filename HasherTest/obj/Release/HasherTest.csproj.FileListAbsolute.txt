@@ -1,0 +1,11 @@
+C:\_Development\hasher\HasherTest\bin\Release\HasherTest.dll
+C:\_Development\hasher\HasherTest\bin\Release\HasherTest.pdb
+C:\_Development\hasher\HasherTest\bin\Release\xunit.dll
+C:\_Development\hasher\HasherTest\bin\Release\xunit.extensions.dll
+C:\_Development\hasher\HasherTest\bin\Release\xunit.xml
+C:\_Development\hasher\HasherTest\bin\Release\xunit.extensions.xml
+C:\_Development\hasher\HasherTest\obj\Release\ResolveAssemblyReference.cache
+C:\_Development\hasher\HasherTest\obj\Release\HasherTest.dll
+C:\_Development\hasher\HasherTest\obj\Release\HasherTest.pdb
+C:\_Development\hasher\HasherTest\bin\Release\Hasher.dll
+C:\_Development\hasher\HasherTest\bin\Release\Hasher.pdb

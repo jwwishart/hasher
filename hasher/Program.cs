@@ -5,8 +5,9 @@ using System.Text;
 using System.Security.Cryptography;
 using System.IO;
 using System.Reflection;
+using Wishart.Hasher;
 
-namespace Hasher
+namespace HasherCommandLine
 {
     class Program
     {
@@ -26,7 +27,7 @@ namespace Hasher
                 return;
             }
 
-            if ( "help /? --help".Split( ' ' ).Contains( args [0], new StringComparer() ) ) {
+            if ( "help /? --help".Split( ' ' ).Contains( args [0], new Wishart.Hasher.StringComparer() ) ) {
                 PrintHelp();
                 return;
             }

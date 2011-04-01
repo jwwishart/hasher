@@ -95,9 +95,12 @@ namespace Wishart.Hasher
         //    }
         //}
 
-        public static bool IsHasherRegistered( string key ) {
+        public static bool IsHasherRegistered( string hasherName ) {
+            if ( String.IsNullOrEmpty( hasherName ) )
+                throw new ArgumentException( "hasherName cannot be null or an empty string" );
+
             foreach ( KeyValuePair<string, Type> item in _registered ) {
-                if ( item.Key.Equals(key, StringComparison.OrdinalIgnoreCase) ) {
+                if ( item.Key.Equals(hasherName, StringComparison.OrdinalIgnoreCase) ) {
                     return true;
                 }
             }
