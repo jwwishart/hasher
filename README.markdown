@@ -1,10 +1,5 @@
 Hasher Utility
 ==============
 
-Simple command line tool to hash a string or a file using MD5, SHA1, SHA256 or SHA512.
+A simple hashing tool. There is a command line and a GUI program that can hash file content or text using several different hashing algorithms. I made this because OpenSSL, which I normal use for this task, didn't have SHA512 support. There is also a library (dll/assembly) that can be used in other projects. The library allows registering other Hashing algorithms.
 
-Once built execute the tool on the command line by calling "hasher" and you will see the help showing how to use it.
-
-TODO: 
-- Seperating out the code into a library, but still want to have a stand alone command line file to chuck into system32 folder :)
-- Creating unit tests in xUnit for the library.
